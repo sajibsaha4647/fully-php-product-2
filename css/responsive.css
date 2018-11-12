@@ -1,0 +1,369 @@
+@media(min-width:768px) and (max-width:991px) {
+.logo{
+	display:;
+}
+.logo img {
+	width: 100px;
+}
+.container {
+max-width: 960px;
+}
+.logo_phone{display:none;}
+
+#header_menu ul li a {
+	padding:10px;
+}
+#header_menu {
+	margin-top: 10px;
+}
+#header_menu ul li a {
+	padding: 5px;
+	font-size: 14px;
+}
+.nxtbtn,
+.prevbtn {
+    z-index:1;
+}
+.about_top_text p {
+	padding: 30px 0px 0px 0px;
+}
+.work_top_text p {
+	padding: 30px 0px 0px 0px;
+}
+
+.single_about_right p {
+}
+
+
+.about_left{
+	float:left;
+}
+.single_about_left h2 {
+	font-size: 22px;
+}
+.single_about_right h2 {
+	font-size: 22px;
+}
+.about_middle {
+	min-height: 332px;
+}
+button:focus{
+	outline:0;
+}
+.overlay .over_text h3 {
+	font-size: 20px;
+}
+.simplefilter li {
+	width: 111px;
+	margin: 0 4px;
+	font-size: 13px;
+}
+.service_top_text p {
+	padding: 35px 0px;
+}
+.single_item_service p {
+	padding: 20px 0px 0px 0px;
+	font-size: 14px;
+}
+.left_text {
+	margin-left: 13px;
+}
+.left_text p {
+	font-size: 14px;
+}
+.left_text h2 {
+	margin: 30px 0 15px;
+}
+.left_text h2 {
+	margin: 0px 0 25px;
+}
+.single_bottom_text p {
+	padding: 0px 65px 0px 74px;
+}
+.plan_top_text p {
+	padding: 35px 0px 0px 0px;
+}
+.contact_top_text p {
+	padding: 35px 0px 0px 0px;
+}
+.icon_icon{
+	width:400px;
+}
+
+
+}
+@media(min-width:576px) and (max-width:767px) {
+
+.logo{
+	display:none;
+}
+button:focus{
+	outline:0;
+}
+.container {
+max-width: 960px;
+}
+.logo_phone{
+	display:block;
+}
+.about_top_text p {
+	padding: 30px 0px 0px 0px;
+}
+.work_top_text p{
+	padding: 30px 0px 0px 0px;
+}
+.counter_area {
+	padding: 65px 0px;
+}
+.counter_icon .fa {
+	margin-top: 32px;
+}
+.about_middle{
+	display:none;
+}
+
+
+
+#header_menu ul li a {
+	padding: 5px;
+	font-size: 14px;
+}
+#header_menu {
+	margin-top: 20px;
+}
+.carousel-caption h2 {
+	font-size: 32px;
+	
+}
+.learn_btn {
+	font-size: 14px;
+	padding: 8px;
+	margin: 21px;
+}
+.buy_btn {
+	font-size: 14px;
+	padding: 8px;
+	margin: 15px;
+}
+.nxtbtn,
+.prevbtn {
+    z-index:1;
+}
+.single_about_left {
+	text-align: left;
+}
+.single_about_left p {
+	text-align: left;
+}
+.single_about_left h2{
+	
+	margin-left:74px;
+}
+.single_about_left .fa{
+	float:left;
+}
+.simplefilter li {
+	width: 90px;
+	margin: 0 5px;
+	font-size: 13px;
+	margin-top: 10px;
+}
+
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    color: #C6A85A;
+	background:transparent;
+}
+.service_top_text p {
+	padding: 35px 0px;
+}
+.single_item_service p {
+	padding: 20px 0px 0px 0px;
+	font-size: 14px;
+}
+.single_bottom_text p {
+	padding: 0px 66px 0px 76px;
+}
+.team_top_text p {
+	padding: 35px 0px 0px 0px;
+}
+.plan_top_text p {
+	padding: 35px 0px 0px 0px;
+}
+.email {
+	margin-left: -13px;
+}
+.contact_top_text p {
+	padding: 35px 0px 0px 0px;
+}
+.icon_icon{
+	width:400px;
+}
+.single_team_talk h3 {
+	width: 200px;
+}
+.single_team_talk h4 {
+	width: 200px;
+}
+
+
+
+
+
+}
+
+@media(max-width:575px){
+	
+.logo{
+	display: none!important;
+}
+button:focus{
+	outline:0;
+}
+.logo_phone{
+	display:block;
+	}
+#header_menu ul li a {
+	padding: 5px;
+	font-size: 14px;
+}
+.nxtbtn,
+.prevbtn {
+    z-index:1;
+}
+.about_top_text p {
+	padding: 30px 0px 0px 0px;
+}
+.work_top_text p{
+	padding: 30px 0px 0px 0px;
+}
+
+.single_about_left {
+	text-align: left;
+}
+
+
+.single_about_left .fa{
+	float:left;
+}
+.single_about_left h2 {
+	margin-left: 63px;
+	font-size: 17px;
+}
+.single_about_right h2 {
+	margin-left: 63px;
+	font-size: 17px;
+}
+.single_about_left p {
+	font-size: 12px;
+}.single_about_right p {
+	font-size: 12px;
+}
+.single_counter {
+	padding: 20px;
+}
+.counter_area {
+	padding: 65px 0px;
+}
+.single_about_left p {
+	text-align: left;
+}
+.about_middle{
+	display:none;
+}
+.about_middle{
+	display:none;
+}
+	
+
+.carousel-caption a {
+    text-decoration: none;
+    list-style: none;
+}
+.learn_btn {
+   font-size: 8px;
+	padding: 5px;
+	margin: 0px
+}
+
+.buy_btn {
+	font-size: 8px;
+	padding: 5px;
+	margin: 0px;
+}
+.carousel-caption h2 {
+	font-size: 25px;
+}
+.carousel-caption p {
+	font-size: 14px;
+}
+.simplefilter li {
+	margin-top: 10px;
+}
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    color: #C6A85A;
+	background:transparent;
+}
+.service_top_text p {
+	padding: 35px 0px;
+}
+.single_item_service p {
+	padding: 15px 0px 0px 0px;
+}
+.left_text {
+	margin-left: 21px;
+}
+.left_text p {
+	color: #353535;
+	font-family: 'Raleway', sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.left_text h2 {
+	font-size: 23px;
+	margin: 0px 0 25px;
+}
+.team_top_text p {
+	padding: 35px 0px 0px 0px;
+}
+.single_bottom_text p {
+	padding: 0px 0px 0px 0px;
+}
+.plan_top_text p {
+	padding: 35px 0px 0px 0px;
+}
+.blog_top_text p {
+	padding: 35px 0px 0px 0px;
+}
+.email {
+	margin-left: -13px;
+}
+.contact_top_text p {
+	padding: 35px 0px 0px 0px;
+}
+.icon_icon{
+	width:400px;
+}
+.single_team_talk h3 {
+	width: 200px;
+}
+.single_team_talk h4 {
+	width: 200px;
+}
+.single_team_talk p {
+	letter-spacing: 0px;
+	width: 300px;
+	font-size: 12px;
+}
+
+
+
+	
+	
+	
+}
+
+
+
+
+
